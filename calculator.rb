@@ -1,1 +1,1 @@
-first_number = 0.0
+first_number = 3.0
